@@ -1,0 +1,10 @@
+Chocorramo
+300.0
+Galletas
+500.0
+Leche
+4000.0
+Milo
+3000.0
+azucar
+5.0
